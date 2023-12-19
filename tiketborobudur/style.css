@@ -1,0 +1,467 @@
+.desktop-6,
+.desktop-6 * {
+  box-sizing: border-box;
+}
+.desktop-6 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1313px;
+  position: relative;
+  overflow: hidden;
+}
+.nwd {
+  position: absolute;
+  left: 600px;
+  height: 130px;
+  top: 5px;
+}
+
+.candi-borobudur-pelataran {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 53.4%;
+  left: 1.11%;
+  width: 45.49%;
+  bottom: 92.38%;
+  top: 3.05%;
+  height: 4.57%;
+}
+.borobudur-temple {
+  color: #6c4380;
+  text-align: left;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: relative;
+  right: 79.65%;
+  left: 2.29%;
+  width: 18.06%;
+  bottom: 88.96%;
+  top: 8.3%;
+  height: 2.74%;
+}
+.rectangle-16 {
+  background: #d6c0e7;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 87.28%;
+  top: 11.96%;
+  height: 0.76%;
+}
+.rectangle-17 {
+  background: #ffffff;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #6c4380;
+  border-width: 1px;
+  width: 712px;
+  height: 94px;
+  position: absolute;
+  left: 23px;
+  top: 255px;
+}
+.select-date {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 44px;
+  top: 193px;
+}
+.rectangle-18 {
+  background: #ffffff;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #6c4380;
+  border-width: 1px;
+  width: 712px;
+  height: 94px;
+  position: absolute;
+  left: 24px;
+  top: 490px;
+}
+.select-visitor-type {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 48px;
+  top: 424px;
+}
+.domestik {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 92px;
+  top: 514px;
+}
+.polygon-1 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 688px;
+  top: 547px;
+  transform: translate(-27.99px, -22.5px);
+  overflow: visible;
+}
+.monday-20-november-2023 {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 73px;
+  top: 284px;
+}
+.image-1 {
+  background: #6c4380;
+  width: 53px;
+  height: 40px;
+  position: absolute;
+  left: 652px;
+  top: 280px;
+}
+.rectangle-19 {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #6c4380;
+  border-width: 1px;
+  height: 411px;
+  position: absolute;
+  right: 51.04%;
+  left: 0.42%;
+  width: 48.54%;
+  top: 664px;
+}
+.borobudur-dewasa-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 52.01%;
+  left: 3.96%;
+  width: 44.03%;
+  top: 690px;
+}
+.borobudur-dewasa-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more-span {
+  color: #000000;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.borobudur-dewasa-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more-span2 {
+  color: #000000;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.borobudur-dewasa-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more-span3 {
+  color: #000000;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.idr-50-000 {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 64.37%;
+  left: 26.94%;
+  width: 8.68%;
+  top: 995px;
+}
+.rectangle-20 {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #6c4380;
+  border-width: 1px;
+  height: 411px;
+  position: absolute;
+  right: 0.83%;
+  left: 50.62%;
+  width: 48.54%;
+  top: 664px;
+}
+.tickets-for-monday-20-november-2023-domestik {
+  color: #6c4380;
+  text-align: left;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  right: 49.38%;
+  left: 1.94%;
+  width: 48.68%;
+  top: 607px;
+}
+.rectangle-25 {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #6c4380;
+  border-width: 1px;
+  position: absolute;
+  right: 51.04%;
+  left: 0.42%;
+  width: 48.54%;
+  bottom: 18.13%;
+  top: 50.57%;
+  height: 31.3%;
+}
+.borobudur-dewasa-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more-span4 {
+  color: #000000;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.borobudur-dewasa-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more-span5 {
+  color: #000000;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.borobudur-dewasa-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more-span6 {
+  color: #000000;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.rectangle-26 {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #6c4380;
+  border-width: 1px;
+  height: 411px;
+  position: absolute;
+  right: 0.83%;
+  left: 50.62%;
+  width: 48.54%;
+  top: 664px;
+}
+.rectangle-27 {
+  background: #ffffff;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #6c4380;
+  border-width: 1px;
+  position: absolute;
+  right: 0.83%;
+  left: 50.62%;
+  width: 48.54%;
+  bottom: 18.13%;
+  top: 50.57%;
+  height: 31.3%;
+}
+.rectangle-21 {
+  background: #3f71f3;
+  height: 61px;
+  position: absolute;
+  right: 53.12%;
+  left: 36.88%;
+  width: 10%;
+  top: 979px;
+}
+.add {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  right: 56.46%;
+  left: 39.37%;
+  width: 4.17%;
+  top: 989px;
+}
+.borobudur-anak-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 2.85%;
+  left: 53.12%;
+  width: 44.03%;
+  top: 707px;
+}
+.borobudur-anak-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more-span {
+  color: #000000;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.borobudur-anak-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more-span2 {
+  color: #000000;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.borobudur-anak-20-nov-23-06-30-16-30-wib-terms-and-conditions-tiket-berlaku-sesuai-tanggal-kunjungan-yang-dipilih-tiket-tidak-dapat-dikembalikan-non-refundable-view-more-span3 {
+  color: #000000;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.idr-25-000 {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 17.01%;
+  left: 74.38%;
+  width: 8.61%;
+  top: 1014px;
+}
+.rectangle-22 {
+  background: #3f71f3;
+  height: 57px;
+  position: absolute;
+  right: 11.04%;
+  left: 85%;
+  width: 3.96%;
+  top: 999px;
+}
+.rectangle-23 {
+  background: #3f71f3;
+  height: 57px;
+  position: absolute;
+  right: 2.57%;
+  left: 93.47%;
+  width: 3.96%;
+  top: 999px;
+}
+._1 {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 8.26%;
+  left: 90.49%;
+  width: 1.25%;
+  top: 996px;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  right: 11.94%;
+  left: 86.25%;
+  width: 1.81%;
+  top: 958px;
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "InknutAntiqua-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  right: 3.4%;
+  left: 94.65%;
+  width: 1.94%;
+  top: 957px;
+}
+.subtotal-1-ticket {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 48px;
+  top: 1126px;
+}
+.idr-25-0002 {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  position: absolute;
+  right: 31.23%;
+  left: 56.01%;
+  width: 12.77%;
+  top: 1120px;
+}
+.rectangle-24 {
+  background: #29a85c;
+  height: 81px;
+  position: absolute;
+  right: 10.56%;
+  left: 69.85%;
+  width: 19.6%;
+  top: 1105px;
+}
+.buy-ticket {
+  color: #ffffff;
+  text-align: left;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  right: 14.37%;
+  left: 74.38%;
+  width: 11.25%;
+  top: 1126px;
+}
+.polygon-2 {
+  width: 68.28px;
+  height: 69.73px;
+  position: absolute;
+  left: 29.79px;
+  top: 1301.32px;
+  transform: translate(-1.37px, -65.76px);
+  overflow: visible;
+}
+.idr-50-0002 {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 67.64%;
+  left: 23.68%;
+  width: 8.68%;
+  top: 998px;
+}
+.back {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSerif-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 99px;
+  top: 1242px;
+}
